@@ -24,11 +24,11 @@
 
 [南京D点热力图](./nanjinghotmapd.html)
 
-[西安D点热力图](./xianhotmapd.html)
+[西安O点热力图](./xianhotmapo.html)
 
 [西安D点热力图](./xianhotmapd.html)
 
-[青岛D点热力图](./qingdao_hotmapd.html)
+[青岛O点热力图](./qingdao_hotmapo.html)
 
 [青岛D点热力图](./qingdao_hotmapd.html)
 
