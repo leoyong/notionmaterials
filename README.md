@@ -28,8 +28,8 @@
 
 [西安D点热力图](./xianhotmapd.html)
 
-[西安D点热力图](./qingdao_hotmapd.html)
+[青岛D点热力图](./qingdao_hotmapd.html)
 
-[西安D点热力图](./qingdao_hotmapd.html)
+[青岛D点热力图](./qingdao_hotmapd.html)
 
 
